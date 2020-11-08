@@ -1,0 +1,1 @@
+﻿psexec -i -s %SystemRoot%\System32\cmd.exe
